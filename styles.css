@@ -1,0 +1,50 @@
+img {
+    height: 400px;   
+}
+.navigation{
+    display:flex;
+    justify-content: space-between; 
+     padding:5px;    
+}
+.public{
+    border: 5px black solid;
+    margin: 5px;
+     text-align:center;
+     
+}
+
+.posts{
+  border: 5px Black Solid;
+    margin:4px;
+     text-align:center;
+    font-family: 'Fira Sans', sans-serif;
+    font-size:20px;
+}
+.scripts{
+  border: 5px Black Solid;
+    margin:4px;
+}
+h1{
+    text-align:center;
+    font-size:40px;
+}
+
+.properties{
+    border: 3px Black Solid;
+   margin: 8px;
+    padding:3px;
+    background-color: #ffffe6;
+    
+}
+.scripts{
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    font-size:20px;
+}
+.things{
+    font-size:20px;
+    font-family: 'Fira Sans', sans-serif;
+}
+body{
+    background-color:#00b300;
+}
